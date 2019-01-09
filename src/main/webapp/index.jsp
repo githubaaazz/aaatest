@@ -1,5 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" %>
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>我若为佛，天下无魔，我若为魔，佛奈我何</h2>
 </body>
 </html>
